@@ -63,3 +63,27 @@
 // console.log(client.getBalance());
 
 // Task 5
+// let a = prompt("Ədəd daxil edin:");
+// let b = prompt("+, -, *, / əməliyyatlarından birini daxil edin:");
+// let c = prompt("Ədəd daxil edin:");
+// function calculate(a, b, c) {
+//     if (b === "+") {
+//         return Number(a) + Number(c);
+//     }
+//     else if (b === "-") {
+//         return Number(a) - Number(c);
+//     }
+//     else if (b === "*") {
+//         return Number(a) * Number(c);
+//     }
+//     else if (b === "/") {
+//         if (Number(c) === 0) {
+//             return "Sıfıra bölmək olmaz";
+//         }
+//         return Number(a) / Number(c);
+//     }
+//     else {
+//         return "Yanlış əməliyyat";
+//     }
+// }
+// console.log(calculate(a, b, c));
