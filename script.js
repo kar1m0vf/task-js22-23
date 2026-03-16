@@ -37,7 +37,7 @@
 //     balance: -2000,
 //     precentOfMinPayment: 10, 
 //     getBalance() {
-//         if (this.balans < 0) {
+//         if (this.balance < 0) {
 //             return `Borcunuz ${-this.balance}`;
 //         }
 //         return `Balansınız ${this.balance}`;
